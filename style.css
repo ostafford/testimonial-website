@@ -1,3 +1,10 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    margin: 0;
+}
 input:hover {
     background-color: purple;
     color: pink;
@@ -16,9 +23,6 @@ h3::first-letter {
     font-size: 50px;
 }
 
-body {
-    color: pink;
-}
 
 #one {
     width: 500px;
